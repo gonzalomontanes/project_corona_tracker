@@ -6,8 +6,5 @@
 
 This is my personal redesign of Adrian Hajdin's Covid tracker, solving through design the recent problems caused by the API and providing an overall more consistent and user-friendly experience.
 
-
-See the result in: 
-
 Setup:
 - run ```npm i && npm start```
