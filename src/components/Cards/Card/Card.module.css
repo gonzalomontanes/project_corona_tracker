@@ -1,5 +1,6 @@
 .card {
   margin: 0 2% !important;
+  background-color: #efecea;
 }
 @media only screen and (max-width: 770px) {
   .card {
